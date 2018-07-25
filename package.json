@@ -1,0 +1,19 @@
+{
+  "name": "github",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "electron index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "devtron": "^1.4.0",
+    "electron": "^2.0.5",
+    "electron-debug": "^2.0.0"
+  },
+  "dependencies": {}
+}
